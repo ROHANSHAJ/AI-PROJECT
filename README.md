@@ -8,31 +8,31 @@ https://drive.google.com/file/d/19yAguvwdFVJv9GEz8b-Q3O280pzWMfLS/view?usp=shari
 This project aims to analyze sentiment on Twitter related to various airlines using BERT (Bidirectional Encoder Representations from Transformers) as a state-of-the-art natural language processing model. It helps you understand how the public perceives different airlines by classifying tweets into positive, negative, or neutral sentiments.    
 
 -----------------------------------------------------------
-#Requirements  
-Python 3.6 or higher    
-Jupyter/Colab Notebook    
-Required Python packages   (emoji,transformers,torch,nltk,pydot,graphviz,tensorflow,pandas,numpy,sklearn,time,datetime)  
+#Requirements    
+**Python 3.6 or higher      
+Jupyter/Colab Notebook      
+Required Python packages     (emoji,transformers,torch,nltk,pydot,graphviz,tensorflow,pandas,numpy,sklearn,time,datetime)  **
 ---------------------------------------------------------
 
 #HOW TO RUN THE CODE  
 
-1. CLICK THE NOTEBOOK URL 
+1. CLICK THE NOTEBOOK URL   
 https://colab.research.google.com/drive/1sd9_vwkBcjkumHt_T5yAj_0h2lmW_ntd?usp=sharing
 
-2.OPEN THE .ipynb FILE IN JUPYTER/COLLAB NOTEBOOK
+2.OPEN THE .ipynb FILE IN JUPYTER/COLLAB NOTEBOOK  
 
-3.IF IN COLAB THE NOTEBOOK, CLICK ON THE FILE ICON  > ON THE TOP LEFT OF THE NOTEBOOK AND CLICK ON FILES. LOCATE THE CSV FILE FOR SENTIMENT ANALYSIS.
+3.IF IN COLAB THE NOTEBOOK, CLICK ON THE FILE ICON  > ON THE TOP LEFT OF THE NOTEBOOK AND CLICK ON FILES. LOCATE THE CSV FILE FOR SENTIMENT ANALYSIS.  
 
-4.CHANGE HARDWARE ACCELERATOR TO T4 GPU IN COLAB'S RUNTIME TYPE SETTINS.
+4.CHANGE HARDWARE ACCELERATOR TO T4 GPU IN COLAB'S RUNTIME TYPE SETTINGS.  
 
-5.TO RUN ALL CELLS AT A TIME JUST PRESS CTRL+F9 OR GO TO RUNTIME MENU ON TOP AND CLICK RUN ALL OPTION AND ALL CELLS RUN AT A TIME. IF YOU WANT TO RUN ONE BY ONE THEN JUST GO TO RUNTIME MENU ON TOP AND CLICK RUN AFTER OPTION AND ALL CELLS RUN ONE BY ONE.
+5.TO RUN ALL CELLS AT A TIME JUST PRESS CTRL+F9 OR GO TO RUNTIME MENU ON TOP AND CLICK RUN ALL OPTION AND ALL CELLS RUN AT A TIME. IF YOU WANT TO RUN ONE BY ONE THEN JUST GO TO RUNTIME MENU ON TOP AND CLICK RUN AFTER OPTION AND ALL CELLS RUN ONE BY ONE.  
 
-6.THE OUTPUTS DISPLAYED RIGHT BELOW THE CELLS.
+6.THE OUTPUTS DISPLAYED RIGHT BELOW THE CELLS.  
 
-7.OBSERVE THE OUTPUT AND EVALUATE THE RESULTS.
+7.OBSERVE THE OUTPUT AND EVALUATE THE RESULTS.  
 
 ---------------------------------------------------------------------
-
-
+  
+#THANK YOU
 
 
