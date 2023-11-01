@@ -31,9 +31,9 @@ Required Python packages :
 
 ---------------------------------------------------------
 
-#HOW TO RUN THE CODE    
+#HOW TO RUN THE CODE   
 
-1. CLICK THE NOTEBOOK URL   
+1.CLICK THE NOTEBOOK URL   
 https://colab.research.google.com/drive/1sd9_vwkBcjkumHt_T5yAj_0h2lmW_ntd?usp=sharing
 
 2.OPEN THE .ipynb FILE IN JUPYTER/COLLAB NOTEBOOK  
