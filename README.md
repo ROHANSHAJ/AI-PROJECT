@@ -101,7 +101,7 @@ CHANGE HARDWARE ACCELERATOR TO T4 GPU IN COLAB'S RUNTIME TYPE SETTINGS.
 
 ---------------------------------------------------------------------
   
-##THANK YOU
+## THANK YOU
 
 --------------------------------------------------------------
 
