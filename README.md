@@ -16,11 +16,22 @@ Python 3.6 or higher
 
 Jupyter/Colab Notebook
 
-Required Python packages     (emoji ,transformers ,torch ,nltk ,pydot ,graphviz ,tensorflow ,pandas ,numpy ,sklearn ,time ,datetime ) 
+Required Python packages :      
+1.emoji   
+2ransformers   
+3.torch   
+4.nltk   
+5.pydot   
+6.graphviz   
+6.tensorflow   
+7.pandas   
+8.numpy   
+9.sklearn time   
+10atetime   
 
 ---------------------------------------------------------
 
-#HOW TO RUN THE CODE  
+#HOW TO RUN THE CODE    
 
 1. CLICK THE NOTEBOOK URL   
 https://colab.research.google.com/drive/1sd9_vwkBcjkumHt_T5yAj_0h2lmW_ntd?usp=sharing
@@ -37,8 +48,6 @@ https://colab.research.google.com/drive/1sd9_vwkBcjkumHt_T5yAj_0h2lmW_ntd?usp=sh
 
 7.OBSERVE THE OUTPUT AND EVALUATE THE RESULTS.  
   
-8.FOR DETAILED EXPLAINATION OF WHAT THE CODE DOES CLICK THE FIRST LINK PROVIDED  
-
 ---------------------------------------------------------------------
   
 #THANK YOU
