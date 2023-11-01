@@ -94,7 +94,7 @@ This README file provides a detailed guide on how to run your code, from install
 This project aims to analyze sentiment on Twitter related to various airlines using BERT (Bidirectional Encoder Representations from Transformers) as a state-of-the-art natural language processing model. It helps you understand how the public perceives different airlines by classifying tweets into positive, negative, or neutral sentiments.    
 ---------------------------------------------------------------------------------
 ## NOTE  
-IF IN COLAB THE NOTEBOOK, CLICK ON THE FILE ICON  > ON THE TOP LEFT OF THE NOTEBOOK AND CLICK ON FILES. LOCATE THE CSV FILE FOR SENTIMENT ANALYSIS.  
+IF IN COLAB NOTEBOOK, CLICK ON THE FILE ICON  > ON THE TOP LEFT OF THE NOTEBOOK AND CLICK ON FILES. LOCATE THE CSV FILE FOR SENTIMENT ANALYSIS.  
 
 CHANGE HARDWARE ACCELERATOR TO T4 GPU IN COLAB'S RUNTIME TYPE SETTINGS.  
 
