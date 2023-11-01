@@ -2,16 +2,22 @@ IBM: AI101
 #Artificial Intelligence - Group 2     
 https://drive.google.com/file/d/19yAguvwdFVJv9GEz8b-Q3O280pzWMfLS/view?usp=sharing  
 
+DATASET: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/data  
+
 ----------------------------------------------------------
 
 #Overview    
 This project aims to analyze sentiment on Twitter related to various airlines using BERT (Bidirectional Encoder Representations from Transformers) as a state-of-the-art natural language processing model. It helps you understand how the public perceives different airlines by classifying tweets into positive, negative, or neutral sentiments.    
 
 -----------------------------------------------------------
-#Requirements    
-Python 3.6 or higher      
-Jupyter/Colab Notebook      
-Required Python packages     (emoji,transformers,torch,nltk,pydot,graphviz,tensorflow,pandas,numpy,sklearn,time,datetime)  
+#REQUIREMENTS      
+
+Python 3.6 or higher   
+
+Jupyter/Colab Notebook
+
+Required Python packages     (emoji ,transformers ,torch ,nltk ,pydot ,graphviz ,tensorflow ,pandas ,numpy ,sklearn ,time ,datetime ) 
+
 ---------------------------------------------------------
 
 #HOW TO RUN THE CODE  
@@ -30,6 +36,8 @@ https://colab.research.google.com/drive/1sd9_vwkBcjkumHt_T5yAj_0h2lmW_ntd?usp=sh
 6.THE OUTPUTS DISPLAYED RIGHT BELOW THE CELLS.  
 
 7.OBSERVE THE OUTPUT AND EVALUATE THE RESULTS.  
+  
+8.FOR DETAILED EXPLAINATION OF WHAT THE CODE DOES CLICK THE FIRST LINK PROVIDED  
 
 ---------------------------------------------------------------------
   
