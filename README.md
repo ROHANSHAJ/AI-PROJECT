@@ -9,9 +9,9 @@ This project aims to analyze sentiment on Twitter related to various airlines us
 
 -----------------------------------------------------------
 #Requirements    
-**Python 3.6 or higher      
+Python 3.6 or higher      
 Jupyter/Colab Notebook      
-Required Python packages     (emoji,transformers,torch,nltk,pydot,graphviz,tensorflow,pandas,numpy,sklearn,time,datetime)  **
+Required Python packages     (emoji,transformers,torch,nltk,pydot,graphviz,tensorflow,pandas,numpy,sklearn,time,datetime)  
 ---------------------------------------------------------
 
 #HOW TO RUN THE CODE  
